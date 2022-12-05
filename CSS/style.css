@@ -1,0 +1,147 @@
+/*************************** index.htm  ********************************/
+.body_index {
+   
+    background-color: rgb(240, 209, 209);
+    padding-left:30px ;
+}
+.a1 {
+      display: block; 
+    color: rgb(124, 11, 11);
+    width : 20%;
+    margin: auto ;
+}
+.links_in_index {
+    border-left: 10px solid rgb(0, 0, 0) ;
+    padding-left: 10px ;
+}
+/***************************** assignment 1  ***********************************/
+.assign-2-shape-1{
+    /* padding: 0 0 0 20px ; */ 
+    color:white ;
+    width: 400px ;
+    height: 400px ;
+    background-image: url("/1670256741066.png");
+    background-size: 200px 200px ;
+    background-repeat: no-repeat;
+    background-color: lightgray;
+   
+}
+.assign-2-shape-2{
+    color:white ;
+    width: 400px ;
+    height: 400px ;
+    background-image: url("/1670256741066.png");
+    background-size: 200px 200px ;
+    background-repeat: repeat-y;
+    background-color: lightgray;
+   
+}
+.assign-2-shape-3{
+    color:white ;
+    width: 400px ;
+    height: 400px ;
+    background-image: url("/1670256741066.png");
+    background-size: 200px 200px ;
+    background-repeat: repeat-x;
+    background-color: lightgray;
+   
+}
+.assign-2-shape-4{
+    color:white ;
+    width: 400px ;
+    height: 400px ;
+    background-image: url("/1670256741066.png");
+    background-size: 200px 200px ;
+    background-repeat: repeat ;
+    background-color: lightgray;
+   
+}
+/* Trying to move "SHAPE n" 20px */
+.b1{
+    padding-left: 20px ;
+}
+.b2{
+    padding-left: 20px ;
+}
+.b3{
+    padding-left: 20px ;
+}
+.b4{
+    padding-left: 20px ;
+}
+/* ******************************************* Assignment 2 ******************************************** */
+.div_1_assign2 {
+    display: inline-block;
+    outline: 5px solid black;
+    padding: 0 30px;
+    margin : 0 10px ;
+    border: 5px solid red 
+}
+
+.div_2_assign2 {
+    display: inline-block;
+    outline: 5px solid black;
+    padding: 0 30px;
+    margin : 0 10px ;
+    border: 5px ;
+    border-style: solid;
+    border-top-color: blueviolet;
+    border-bottom-color: blueviolet;
+    border-right-color: green ;
+    border-left-color: green ;
+
+}
+
+.div_3_assign2 {
+    display: inline-block;
+    outline: 5px solid black;
+    padding: 0 30px;
+    margin : 0 10px ;
+    border: 5px ;
+    border-style: dashed;
+    border-top-color: orangered;
+    border-bottom-color: blueviolet;
+    border-right-color: green ;
+    border-left-color: yellow ;
+
+}
+/********************* Assignment 3 **************************/
+
+.div_1_assign3{
+    background-color: rgb(233, 225, 225) ;
+    width: 400px ;
+    border-left: 10px solid red ;
+    outline: 10px solid rgb(233, 225, 225) ;
+    margin: 20px ;
+    padding: 1px ;
+
+
+}
+.div_2_assign3{
+    visibility: hidden;
+    background-color: rgb(233, 225, 225) ;
+    width: 400px ;
+    border-left: 10px solid red ;
+    outline: 10px solid rgb(233, 225, 225) ;
+    margin: 20px ;
+    padding: 1px ;
+    
+
+}
+.div_3_assign3{
+    background-color: rgb(233, 225, 225) ;
+    width: 400px ;
+    border-left: 10px solid green ;
+    outline: 10px solid rgb(233, 225, 225) ;
+    margin: 20px ;
+    padding: 1px ;
+
+
+}
+
+
+
+#m1 {
+    display: inline-block;
+    margin: 10px;
+}
